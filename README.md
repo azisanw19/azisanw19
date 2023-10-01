@@ -96,6 +96,7 @@
 ###
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azisanw19&layout=compact&theme=darcula" alt=azisanw19 />
   <img src="https://streak-stats.demolab.com?user=azisanw19&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
