@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Hello i'm Aziz, i'm interested in Mobile Developer using Kotlin and Flutter. Apart from that, I am also interested in data science, such as image processing, natural language processing.</p>
+<p align="left">Hello i'm Aziz, i'm interested in Mobile Developer using Kotlin and Flutter. Apart from that, I am also interested in data science, such as image processing, natural language processing. Open Source Enthusiast</p>
 
 ###
 
